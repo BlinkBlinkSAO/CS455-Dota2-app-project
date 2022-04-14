@@ -47,6 +47,7 @@ You can use the Expo -cli on Visual Studio Code to access the project code on al
 Android:
 
 The apk can be download at links below:
+  
 https://drive.google.com/file/d/1ZdmI2JEW-KQV1laF84ThzK6L5TJ8Dbo5/view?usp=sharing
 
 Visual Studio Code:
