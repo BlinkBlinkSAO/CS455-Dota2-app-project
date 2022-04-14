@@ -39,7 +39,7 @@ Dota2TOGO app targets Android 9.0 (API 28) or newer visions of android system.
 It is specificly designed for android, but it still can run on IOS 10 or newer visions of ios system.
 (May not have correct format for all functions or pages)
 
-This is a mobile applicaiton and can only run on two moblia system, the Webview react native component does not support web.
+This is a mobile applicaiton and can only run on two mobile system, the Webview react native component does not support web.
 
 You can use the Expo -cli on Visual Studio Code to access the project code on all Windows, macOS, or Linux system.
 
