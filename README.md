@@ -36,6 +36,8 @@ This is the github respository for Dota2TOGO android applicaiton.
 ## Configuration instructions
 Dota2TOGO app targets Android 9.0 (API 28) or newer visions of android system. 
 
+The app is created by react native and the expo -cli in Visual Studio Code.
+
 It is specificly designed for android, but it still can run on IOS 10 or newer visions of ios system.
 (May not have correct format for all functions or pages)
 
@@ -115,9 +117,12 @@ Visual Studio Code:
 ## Copyright information
 @ Linyan Liu, University of Regina
 ## Contact information
-Linyan Liu lla670@uregina.ca or vocaloidmikusao@gmail.com
+Linyan Liu 
+  
+lla670@uregina.ca or vocaloidmikusao@gmail.com
+  
 ## Bug list
-- There is no Bug found for the app till now (04/14/2022), but the apk file have some compatibility issues for some specific phone model, I will keep eyes on those issues and try found some way to sovle them.
+There is no Bug found for the app till now (04/14/2022), but the apk file have some compatibility issues for some specific phone model, I will keep eyes on those issues and try found some way to sovle them.
 ## Troubleshooting tips
 Please send me an email if you have any trouble when you are using the app. 
 
