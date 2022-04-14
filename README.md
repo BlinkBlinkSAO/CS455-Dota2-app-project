@@ -128,7 +128,6 @@ Please send me an email if you have any trouble when you are using the app.
 
 See [Contact information](#Contact-information) for detail.
 ## Credits and acknowledgments
-Professor : Trevor Tomesh 
   
 React-native 
   
@@ -137,5 +136,7 @@ Expo
 www.dota2.com
   
 University of Regina Cs 455 class notes
+  
+Professor : Trevor Tomesh 
   
 ```
