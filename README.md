@@ -115,7 +115,7 @@ Visual Studio Code:
 ## Copyright information
 @ Linyan Liu, University of Regina
 ## Contact information
-Linyan Liu lla670@qq.com or vocaloidmikusao@gmail.com
+Linyan Liu lla670@uregina.ca or vocaloidmikusao@gmail.com
 ## Bug list
 - There is no Bug found for the app till now (04/14/2022), but the apk file have some compatibility issues for some specific phone model, I will keep eyes on those issues and try found some way to sovle them.
 ## Troubleshooting tips
