@@ -5,7 +5,6 @@
 ---
 APP Version : 1.0.0
   
-Last Update Date: 04/14/2022
 ---
 This is the github respository for Dota2TOGO android applicaiton.
   
@@ -138,5 +137,9 @@ www.dota2.com
 University of Regina Cs 455 class notes
   
 Professor : Trevor Tomesh 
+
+---
+  
+  Last Update Date: 04/14/2022
   
 ```
